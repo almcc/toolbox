@@ -13,5 +13,5 @@ vagrant
 -------
 
 - ```cd vagrant/CentOS-6.4-x86_64/```
-- ```vagrant up```
-- ```vagrant ssh```
+- ```vagrant up alpha```
+- ```vagrant ssh alpha```

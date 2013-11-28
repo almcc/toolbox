@@ -1,5 +1,4 @@
 # Clean up unneeded packages.
-#yum -y erase gtk2 libX11 hicolor-icon-theme avahi freetype bitstream-vera-fonts
 yum -y clean all
 
 # Ensure that udev doesn't screw us with network device naming.

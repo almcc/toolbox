@@ -1,2 +1,1 @@
-include users
-include yum
+import 'nodes.pp'
